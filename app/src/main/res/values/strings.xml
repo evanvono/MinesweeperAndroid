@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="lost_flag_msg">You Lost! There was no mine here. Please try again!</string>
+    <string name="lost_mine_msg">You Lost! There was a mine here. Please try again!</string>
+    <string name="won_msg">You won!</string>
+    <string name="text_new_game">New Game</string>
+    <string name="text_place_flags">Place Flags</string>
+    <string name="text_board_size">Board size:</string>
+</resources>
